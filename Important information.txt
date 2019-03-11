@@ -5,8 +5,9 @@ https://www.youtube.com/watch?v=7NrovM-pA3Q
 
 Otaku city https://assetstore.unity.com/packages/3d/environments/urban/japanese-otaku-city-20359
 Create city: https://www.youtube.com/watch?v=xkuniXI3SEE
+Bee example: https://github.com/LightBuzz/Speech-Recognition-Unity
 
-
+Voice recognition library: https://docs.unity3d.com/ScriptReference/Windows.Speech.KeywordRecognizer.html
 Lista de tareas:
 
 Vale:
