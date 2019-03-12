@@ -4,10 +4,13 @@ https://www.youtube.com/watch?v=7NrovM-pA3Q
 
 
 Otaku city https://assetstore.unity.com/packages/3d/environments/urban/japanese-otaku-city-20359
-Create city: https://www.youtube.com/watch?v=xkuniXI3SEE
+Create a city: https://www.youtube.com/watch?v=xkuniXI3SEE
 Bee example: https://github.com/LightBuzz/Speech-Recognition-Unity
 
 Voice recognition library: https://docs.unity3d.com/ScriptReference/Windows.Speech.KeywordRecognizer.html
+Import textures: https://docs.unity3d.com/Manual/ImportingTextures.html
+3D Spiderman: https://www.cgtrader.com/free-3d-models/character/other/spiderman-scene 
+
 Lista de tareas:
 
 Vale:
